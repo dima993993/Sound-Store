@@ -1,0 +1,17 @@
+.iconContainer {
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+.iconContainer img {
+    width: 18px;
+    color: #fff;
+}
+.iconContainer a {
+    text-decoration: none;
+    color:#fff;
+    margin: 10px;
+}
+.iconContainer>a>span:last-child {
+    vertical-align: 10%;
+    margin-left: 10px;
+}
